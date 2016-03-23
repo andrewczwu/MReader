@@ -1,0 +1,5 @@
+CashPrem	Average	MaxValue
+AvePolLoanYield	MaxValue	MaxValue
+AvePolLoanYield	MinValue	MinValue
+AvePolLoanYield	Average	LastValue
+ResvAssumed	Average	FirstValue
